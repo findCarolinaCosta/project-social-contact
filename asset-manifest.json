@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/project-social-contact/static/css/main.2b65bc9d.chunk.css",
+    "main.js": "/project-social-contact/static/js/main.ec2489ec.chunk.js",
+    "main.js.map": "/project-social-contact/static/js/main.ec2489ec.chunk.js.map",
+    "runtime-main.js": "/project-social-contact/static/js/runtime-main.36126251.js",
+    "runtime-main.js.map": "/project-social-contact/static/js/runtime-main.36126251.js.map",
+    "static/css/2.150d169a.chunk.css": "/project-social-contact/static/css/2.150d169a.chunk.css",
+    "static/js/2.2ca650c6.chunk.js": "/project-social-contact/static/js/2.2ca650c6.chunk.js",
+    "static/js/2.2ca650c6.chunk.js.map": "/project-social-contact/static/js/2.2ca650c6.chunk.js.map",
+    "index.html": "/project-social-contact/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/project-social-contact/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.2b65bc9d.chunk.css.map": "/project-social-contact/static/css/main.2b65bc9d.chunk.css.map",
+    "static/js/2.2ca650c6.chunk.js.LICENSE.txt": "/project-social-contact/static/js/2.2ca650c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36126251.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.2ca650c6.chunk.js",
+    "static/css/main.2b65bc9d.chunk.css",
+    "static/js/main.ec2489ec.chunk.js"
+  ]
+}
